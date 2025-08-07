@@ -65,4 +65,3 @@ Books in Library:
 
 ---
 
-✅ Made with ❤ for learning Java OOP.
